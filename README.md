@@ -1,6 +1,8 @@
 Ansible Role EPEL
 =========
 
+[![Build Status](https://travis-ci.org/mmahfoudi/ansible-role-epel.svg?branch=master)](https://travis-ci.org/mmahfoudi/ansible-role-epel)
+
 Installs the EPEL repository for RHEL systems.
 
 Requirements
