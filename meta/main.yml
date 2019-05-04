@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Mehdi MAHFOUDI
+  description: IT System Administrator
+  company: Talend
+  license: MIT
+  min_ansible_version: 2.7
+  platforms:
+    - name: CentOS
+      versions:
+        - 7
+        - 6
+  galaxy_tags:
+    - epel
+dependencies: []
