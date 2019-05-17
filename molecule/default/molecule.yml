@@ -9,9 +9,6 @@ platforms:
   - name: centos7
     image: 'geerlingguy/docker-centos7-ansible:latest'
     pre_build_image: true
-  - name: centos6
-    image: 'geerlingguy/docker-centos6-ansible:latest'
-    pre_build_image: true
 provisioner:
   name: ansible
   lint:
